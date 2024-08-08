@@ -1,7 +1,7 @@
 SiiNunit
 {
-live_stream_def : _nameless.225.0729.aac0 {
- stream_data: 226
+live_stream_def : _nameless.1e7.7bf3.b050 {
+ stream_data: 229
  stream_data[0]: "http://relay.181.fm:8130|181.FM - Kickin' Country|Country|EN|128|1"
  stream_data[1]: "http://relay.181.fm:8034|181.FM - Real Country|Country|EN|128|1"
  stream_data[2]: "https://radio.truckers.fm/|TruckersFM|Sim radio|EN|320|1"
@@ -228,6 +228,9 @@ live_stream_def : _nameless.225.0729.aac0 {
  stream_data[223]: "http://188.40.62.20:8032/;stream.nsv|POP FM BS|Pop, Folk|BS|128|0"
  stream_data[224]: "http://radiopulawy24.pl:48000/stream|Radio Impuls - Pu\xc5\x82awy|Local|PL|256|0"
  stream_data[225]: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.mp3|MyHits|Hits|EE|256|1"
+ stream_data[226]: "https://edge05.cdn.bitflip.ee:8888/SKYPLUS|Sky Plus|Urban-Contemporary|EE|320|1"
+ stream_data[227]: "https://skymedia-live.bitflip.ee/RETRO|Retro FM|70s, 80s|EE|320|1"
+ stream_data[228]: "http://ice.leviracloud.eu:8000/phr320-mp3|Power Hit Radio|Electronic|EE|320|1"
 }
 
 }
